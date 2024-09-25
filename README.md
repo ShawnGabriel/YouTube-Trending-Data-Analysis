@@ -7,3 +7,6 @@ Insights and recommendations are provided on the following key areas:
 - **Category and Regional Performance:** Explores content performance across different regions and categories through Category Performance, Cross-Country Reach, and Channel/Creator Performance.
 
 # Data Structure & Initial Checks
+The YouTube dataset comprises three CSV files, each representing a different country: Canada, the United States, and Great Britain, with a total row count of 136,992 records.
+<img width="668" alt="Screenshot 2024-09-24 at 23 48 07" src="https://github.com/user-attachments/assets/de3de896-2af4-4795-8aa4-f79cdb939e83">
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The SQL queries utilized to inspect and perform quality checks can be found [here.]()

@@ -11,7 +11,7 @@ The YouTube dataset comprises three CSV files, each representing a different cou
 
 <img width="668" alt="Screenshot 2024-09-24 at 23 48 07" src="https://github.com/user-attachments/assets/de3de896-2af4-4795-8aa4-f79cdb939e83">
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/ShawnGabriel/YouTube-Trending-Data-Analysis/blob/main/PySpark_YouTube_Trending_Data_Analysis (1).ipynb)
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. The SQL queries utilized to inspect and perform quality checks can be found [here.](https://github.com/ShawnGabriel/YouTube-Trending-Data-Analysis/blob/main/PySpark_YouTube_Trending_Data_Analysis%20(1).ipynb)
 
 # Executive Summary
 ### Overview of Findings
